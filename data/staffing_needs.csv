@@ -1,0 +1,134 @@
+month,department,employee_count,needed_staff_count
+2024-01-01,Front Office,81,0
+2024-01-01,Housekeeping,64,0
+2024-01-01,HR,71,0
+2024-01-01,Kitchen,82,3
+2024-01-01,Maintenance,57,0
+2024-01-01,Security,73,5
+2024-01-01,Finance,72,0
+2024-02-01,Front Office,81,3
+2024-02-01,Housekeeping,64,0
+2024-02-01,HR,71,0
+2024-02-01,Kitchen,82,1
+2024-02-01,Maintenance,57,0
+2024-02-01,Security,73,0
+2024-02-01,Finance,72,5
+2024-03-01,Front Office,81,2
+2024-03-01,Housekeeping,64,0
+2024-03-01,HR,71,0
+2024-03-01,Kitchen,82,0
+2024-03-01,Maintenance,57,2
+2024-03-01,Security,73,0
+2024-03-01,Finance,72,0
+2024-04-01,Front Office,81,0
+2024-04-01,Housekeeping,64,0
+2024-04-01,HR,71,1
+2024-04-01,Kitchen,82,0
+2024-04-01,Maintenance,57,4
+2024-04-01,Security,73,0
+2024-04-01,Finance,72,0
+2024-05-01,Front Office,81,0
+2024-05-01,Housekeeping,64,0
+2024-05-01,HR,71,4
+2024-05-01,Kitchen,82,1
+2024-05-01,Maintenance,57,0
+2024-05-01,Security,73,1
+2024-05-01,Finance,72,0
+2024-06-01,Front Office,81,2
+2024-06-01,Housekeeping,64,0
+2024-06-01,HR,71,0
+2024-06-01,Kitchen,82,0
+2024-06-01,Maintenance,57,0
+2024-06-01,Security,73,0
+2024-06-01,Finance,72,0
+2024-07-01,Front Office,81,0
+2024-07-01,Housekeeping,64,0
+2024-07-01,HR,71,5
+2024-07-01,Kitchen,82,0
+2024-07-01,Maintenance,57,0
+2024-07-01,Security,73,2
+2024-07-01,Finance,72,3
+2024-08-01,Front Office,81,0
+2024-08-01,Housekeeping,64,0
+2024-08-01,HR,71,1
+2024-08-01,Kitchen,82,0
+2024-08-01,Maintenance,57,4
+2024-08-01,Security,73,3
+2024-08-01,Finance,72,0
+2024-09-01,Front Office,81,0
+2024-09-01,Housekeeping,64,4
+2024-09-01,HR,71,0
+2024-09-01,Kitchen,82,0
+2024-09-01,Maintenance,57,1
+2024-09-01,Security,73,1
+2024-09-01,Finance,72,4
+2024-10-01,Front Office,81,4
+2024-10-01,Housekeeping,64,3
+2024-10-01,HR,71,1
+2024-10-01,Kitchen,82,3
+2024-10-01,Maintenance,57,1
+2024-10-01,Security,73,0
+2024-10-01,Finance,72,0
+2024-11-01,Front Office,81,3
+2024-11-01,Housekeeping,64,3
+2024-11-01,HR,71,1
+2024-11-01,Kitchen,82,3
+2024-11-01,Maintenance,57,1
+2024-11-01,Security,73,0
+2024-11-01,Finance,72,0
+2024-12-01,Front Office,81,0
+2024-12-01,Housekeeping,64,0
+2024-12-01,HR,71,0
+2024-12-01,Kitchen,82,1
+2024-12-01,Maintenance,57,0
+2024-12-01,Security,73,1
+2024-12-01,Finance,72,0
+2025-01-01,Front Office,81,1
+2025-01-01,Housekeeping,64,0
+2025-01-01,HR,71,0
+2025-01-01,Kitchen,82,0
+2025-01-01,Maintenance,57,1
+2025-01-01,Security,73,0
+2025-01-01,Finance,72,4
+2025-02-01,Front Office,81,0
+2025-02-01,Housekeeping,64,0
+2025-02-01,HR,71,5
+2025-02-01,Kitchen,82,0
+2025-02-01,Maintenance,57,0
+2025-02-01,Security,73,0
+2025-02-01,Finance,72,0
+2025-03-01,Front Office,81,2
+2025-03-01,Housekeeping,64,0
+2025-03-01,HR,71,0
+2025-03-01,Kitchen,82,0
+2025-03-01,Maintenance,57,3
+2025-03-01,Security,73,0
+2025-03-01,Finance,72,0
+2025-04-01,Front Office,81,1
+2025-04-01,Housekeeping,64,2
+2025-04-01,HR,71,0
+2025-04-01,Kitchen,82,0
+2025-04-01,Maintenance,57,0
+2025-04-01,Security,73,0
+2025-04-01,Finance,72,0
+2025-05-01,Front Office,81,0
+2025-05-01,Housekeeping,64,0
+2025-05-01,HR,71,0
+2025-05-01,Kitchen,82,5
+2025-05-01,Maintenance,57,3
+2025-05-01,Security,73,0
+2025-05-01,Finance,72,5
+2025-06-01,Front Office,81,1
+2025-06-01,Housekeeping,64,0
+2025-06-01,HR,71,0
+2025-06-01,Kitchen,82,0
+2025-06-01,Maintenance,57,0
+2025-06-01,Security,73,1
+2025-06-01,Finance,72,0
+2025-07-01,Front Office,81,0
+2025-07-01,Housekeeping,64,4
+2025-07-01,HR,71,2
+2025-07-01,Kitchen,82,0
+2025-07-01,Maintenance,57,4
+2025-07-01,Security,73,5
+2025-07-01,Finance,72,5
