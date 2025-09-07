@@ -1,4 +1,4 @@
-# 🏨 Hotel HR & Finance Dashboard Project
+#  Hotel HR & Finance Dashboard Project
 
 This project presents an end-to-end data analysis workflow for a fictional hotel. It includes data cleaning with Python (Pandas), SQL queries on PostgreSQL, and interactive dashboards built using Tableau. The focus is on **Human Resources** and **Financial** metrics.
 
