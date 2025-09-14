@@ -109,7 +109,6 @@ Hotel-Data-Analytics/
 
 **Ersin Tepegöz**  
 📧 tepegozersin@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ersin-tepeg%C3%B6z-8710ab366)
 
 ---
 
